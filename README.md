@@ -1,16 +1,10 @@
-Expense Tracker
+# Expense Tracker
 
-A simple expense tracker that helps you keep track of your daily expenses.
+A simple expense tracker to help you keep track of your daily expenses.
 
-Features
-Add expenses
-Delete expenses
-View your expenses
-Track your total spending
-Built With
-HTML
-CSS
-JavaScript
-How to Run
+## Features
 
-Just download or clone the project and open index.html in your browser.
+- Add expenses
+- Delete expenses
+- View your expenses
+- Track total spending
